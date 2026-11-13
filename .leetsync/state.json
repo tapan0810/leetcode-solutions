@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "updatedAt": 1794574753950,
+  "devices": {
+    "e614be3c-be23-440b-87c5-04bfbf2cba40": {
+      "lastSeen": 1794574753521
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  },
+  "identity": {
+    "installId": "ddfb07d1-627a-46dd-85f4-a60ba8afff07",
+    "at": 1794574600570,
+    "name": "Tapan",
+    "nameAt": 1794574654753
+  }
+}
