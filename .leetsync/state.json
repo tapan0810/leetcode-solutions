@@ -1,18 +1,47 @@
 {
   "v": 1,
-  "updatedAt": 1794574753950,
+  "updatedAt": 1794574901004,
   "devices": {
     "e614be3c-be23-440b-87c5-04bfbf2cba40": {
-      "lastSeen": 1794574753521
+      "lastSeen": 1794574900570
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "3420": {
+      "attempts": 1,
+      "bestMemory": "65.5 MB (Beats 100%)",
+      "bestRuntime": "14 ms (Beats 100%)",
+      "date": "2026-11-13",
+      "difficulty": "Hard",
+      "firstSolvedOn": "2026-11-13",
+      "folderName": "3420-Count-Non-Decreasing-Subarrays-After-K-Operations",
+      "language": "C#",
+      "number": 3420,
+      "slug": "count-non-decreasing-subarrays-after-k-operations",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Stack",
+        "Segment Tree",
+        "Queue",
+        "Sliding Window",
+        "Monotonic Stack",
+        "Monotonic Queue"
+      ],
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "at": 1794574900570
+    }
+  },
+  "achievements": {
+    "first_blood": 1794574765186
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-11-13"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "ddfb07d1-627a-46dd-85f4-a60ba8afff07",
