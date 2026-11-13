@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794595402008,
+  "updatedAt": 1794598148838,
   "devices": {
     "e614be3c-be23-440b-87c5-04bfbf2cba40": {
-      "lastSeen": 1794595399926
+      "lastSeen": 1794598148386
     }
   },
   "problems": {
@@ -29,11 +29,12 @@
         "Monotonic Queue"
       ],
       "title": "Count Non-Decreasing Subarrays After K Operations",
-      "at": 1794595399926
+      "at": 1794598148386
     }
   },
   "achievements": {
-    "first_blood": 1794574765186
+    "first_blood": 1794574765186,
+    "night_owl": 1794595402995
   },
   "sheets": {},
   "days": [
