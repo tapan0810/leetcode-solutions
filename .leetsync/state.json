@@ -1,7 +1,10 @@
 {
   "v": 1,
-  "updatedAt": 1794641827106,
+  "updatedAt": 1794644257087,
   "devices": {
+    "87a18f1f-6cbc-4189-ac58-c0aa336be052": {
+      "lastSeen": 1794644256629
+    },
     "e614be3c-be23-440b-87c5-04bfbf2cba40": {
       "lastSeen": 1794641826649
     }
