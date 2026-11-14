@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794638201069,
+  "updatedAt": 1794639908902,
   "devices": {
     "e614be3c-be23-440b-87c5-04bfbf2cba40": {
-      "lastSeen": 1794638200619
+      "lastSeen": 1794639908260
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Positive Sum Subarray ",
-      "at": 1794638200619
+      "at": 1794639908260
     },
     "3420": {
       "attempts": 1,
@@ -49,7 +49,7 @@
         "Monotonic Queue"
       ],
       "title": "Count Non-Decreasing Subarrays After K Operations",
-      "at": 1794638200619
+      "at": 1794639908260
     }
   },
   "achievements": {
