@@ -1,12 +1,32 @@
 {
   "v": 1,
-  "updatedAt": 1794631543396,
+  "updatedAt": 1794631601342,
   "devices": {
     "e614be3c-be23-440b-87c5-04bfbf2cba40": {
-      "lastSeen": 1794631542934
+      "lastSeen": 1794631600626
     }
   },
   "problems": {
+    "3364": {
+      "attempts": 1,
+      "bestMemory": "45.1 MB (Beats 68%)",
+      "bestRuntime": "3 ms (Beats 90%)",
+      "date": "2026-11-14",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-14",
+      "folderName": "3364-Minimum-Positive-Sum-Subarray",
+      "language": "C#",
+      "number": 3364,
+      "slug": "minimum-positive-sum-subarray",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "title": "Minimum Positive Sum Subarray ",
+      "at": 1794631600626
+    },
     "3420": {
       "attempts": 1,
       "bestMemory": "65.5 MB (Beats 100%)",
@@ -29,7 +49,7 @@
         "Monotonic Queue"
       ],
       "title": "Count Non-Decreasing Subarrays After K Operations",
-      "at": 1794631542934
+      "at": 1794631600626
     }
   },
   "achievements": {
@@ -39,11 +59,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-14"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 1
+    "longestStreak": 2,
+    "pushes": 2
   },
   "identity": {
     "installId": "ddfb07d1-627a-46dd-85f4-a60ba8afff07",
